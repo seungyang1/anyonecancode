@@ -6,7 +6,7 @@
         <option value="de-DE" selected>German</option>
         <option value="en-US">English</option>
         <option value="uk-UA">Ukrainian</option>
-        <option value="kr-KR">Korean</option>
+        <option value="ko-KR">Korean</option>
       </select>
     </div>
     <br />
